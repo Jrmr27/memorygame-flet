@@ -21,7 +21,7 @@ memorygame/
 - Python 3.x
 - Flet Framework
 
-## Instal
+## Install
 pip install flet
 
 ## How to Execute 
