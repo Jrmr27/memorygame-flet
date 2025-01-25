@@ -38,3 +38,30 @@ flet run -d main.py
 - Counter of matches and errors
 - Animation when flipping the cards
 - Multiple game states with navegation
+
+## Game Features
+- Interactive memory game with 10 pairs of cards
+- Score tracking system (matches and errors)
+- Animated card transitions
+- Multiple game states:
+  - Home screen with play button
+  - Game board with card grid
+  - Congratulations screen with final stats
+
+## Game Rules
+1. Click on cards to flip them
+2. Find matching pairs of cards
+3. Track your progress with the match counter
+4. Complete the game by finding all pairs
+
+## Technical Details
+- Built with Python and Flet framework
+- Modular architecture with separate view components
+- Event-driven gameplay mechanics
+- Responsive design
+
+## Project Components
+- home.py: Handles the initial game screen
+- card.py: Manages card behavior and animations
+- game.py: Controls game logic and score tracking
+- congrats.py: Displays end-game statistics
