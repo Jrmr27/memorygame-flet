@@ -19,7 +19,7 @@ memorygame/
 
 ## Requisites
 - Python 3.x
-- Framework Flet
+- Flet Framework
 
 ## Instal
 pip install flet
