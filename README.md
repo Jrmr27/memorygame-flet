@@ -24,12 +24,12 @@ memorygame/
 ## Install
 pip install flet
 
-## How to Execute 
+## How to Run
 1st -> go to the directory of the project on the terminal
 cd memorygame
 cd base
 cd src
-2nd -> execute the main.py to start the game 
+2nd -> run the main.py to start the game 
 flet run -d main.py
 
 ## Characteristics
