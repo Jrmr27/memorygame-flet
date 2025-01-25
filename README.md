@@ -1,5 +1,6 @@
 # Memory Game with Flet
-A memory card game built with Flet framework in Python, featuring car matching mechanics, score tracking and multiple game states. In this game, player needs to match pairs of cards while keeping track of the matches and errors made during the game.
+A memory card game built with Flet framework in Python. Features include card matching mechanics, score tracking, animated card flips, and multiple game states. Players must find matching pairs while keeping track of their matches and errors.
+
 
 ## Project Structure
 memorygame/
